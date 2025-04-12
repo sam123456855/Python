@@ -1,0 +1,2 @@
+python is simple to learn
+portable python
